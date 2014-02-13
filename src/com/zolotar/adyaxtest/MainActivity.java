@@ -1,7 +1,3 @@
-/*
- * 13.02.2014
- */
-
 package com.zolotar.adyaxtest;
 
 import org.json.JSONException;
