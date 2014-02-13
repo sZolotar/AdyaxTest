@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adyax Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="global_brightness">Global brightness</string>
+    <string name="window_brightness">Window brightness</string>
+    <string name="save_db">Save to DB</string>
+    <string name="restore_db">Restore from DB</string>
+    <string name="get_from_http">Get from http</string>
+
+</resources>
